@@ -1,4 +1,4 @@
-# RAG - ChatBot: Retrieval Augmented Generation (RAG) chatbot using OpenAI's ChatGPT API, Langchain, ChromaDB, and Streamlit
+# RAG - ChatBot: Retrieval Augmented Generation (RAG) chatbot using OpenAI's ChatGPT API, Langchain, ChromaDB, and Streamlit.
 
 This RAG-ChatBot is a Python application that allows the user to chat with multiple PDF documents. You ask questions in natural language, in the same way as if you were to ask a human, and the application will provide relevant responses based on the content of the uploaded documents. This app uses OpenAI's ChatGPT gpt-3.5-turbo to generate accurate answers to your questions, but the model will only answer questions that are about the uploaded documents.
 Here are some key points about the project:
